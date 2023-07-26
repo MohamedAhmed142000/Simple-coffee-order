@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Simple Coffee Order</string>
+    <string name="Name">Name</string>
+    <string name="Toppings">Toppings</string>
+    <string name="whipped_cream">whipped cream</string>
+    <string name="chocolate">chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="add">add</string>
+    <string name="number_of_quantity">0</string>
+    <string name="decrease">decrease</string>
+    <string name="Order_Summery">Order Summery</string>
+    <string name="price">0$</string>
+    <string name="Order">Order</string>
+
+
+</resources>

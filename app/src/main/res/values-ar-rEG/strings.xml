@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">jastjavae</string>
+    <string name="Name">الاسم</string>
+    <string name="Toppings">الانواع</string>
+    <string name="whipped_cream">الكريمة المخفوقه</string>
+    <string name="chocolate">الشوكولاته</string>
+    <string name="quantity">الكمية</string>
+    <string name="add">زبادة</string>
+    <string name="number_of_quantity">0</string>
+    <string name="decrease">نقصان</string>
+    <string name="Order_Summery">ملخص الطلبات</string>
+    <string name="price">0$</string>
+    <string name="Order">تمام</string>
+</resources>
